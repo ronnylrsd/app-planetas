@@ -19,7 +19,7 @@
 
 ## 💻 Projeto
 
-APP de planetas criado por mim!
+Aplicativo de planetas criado por mim!
 Tem como objetivo, mostrar um pouco sobre os planetas do sistema solar. Facilitando assim, a vida dos usuários que buscam conhecimento astrológico.
 
 ## ✨ Tecnologias
